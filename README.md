@@ -1,4 +1,4 @@
-:two_hearts: **Composto LaTex: Função Composta gog(x)**
+:two_hearts: **LaTex: Função Composta gog(x)**
 
 Este documento LaTex demonstra o cálculo da função composta `gog(x)`, onde:
 
