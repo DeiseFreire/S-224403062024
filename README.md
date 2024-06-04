@@ -54,3 +54,7 @@ Agora, podemos substituir o resultado de `(x² + x - 1)²` na expressão de `gog
 :two_hearts: **Conclusão**
 
 Este documento LaTex demonstrou que a função composta `gog(x)` é igual a `x^4 + 2x^3 - x - 1`.
+
+:two_hearts: **Imagem**
+
+
