@@ -1,11 +1,11 @@
-:two_hearts: **LaTex: Função Composta gog(x)**
+## :two_hearts: **LaTex: Função Composta gog(x)**
 
 Este documento LaTex demonstra o cálculo da função composta `gog(x)`, onde:
 
 * `f(x) = 3x - 1`
 * `g(x) = x^2 + x - 1`
 
-**Funções Definidas**
+## :two_hearts: **Funções Definidas**
 
 As funções `f(x)` e `g(x)` são definidas da seguinte maneira:
 
@@ -13,7 +13,7 @@ As funções `f(x)` e `g(x)` são definidas da seguinte maneira:
 \bbox[orange, 8px]{f\left( x \right) = 3x - 1} \quad \text{e} \quad \bbox[orange, 8px]{g\left( x \right) = x^{2} + x - 1}
 ```
 
-:two_hearts: **Cálculo de gog(x)**
+## :two_hearts: **Cálculo de gog(x)**
 
 A função composta `gog(x)` é calculada aplicando `g(x)` duas vezes, primeiro a `x` original e depois ao resultado de `g(x)`.
 
@@ -27,7 +27,7 @@ Substituindo `g(x)` por sua definição na expressão anterior:
 gog\left( x \right) = \left( x^{2} + x - 1\right)^{2} + \left( x^{2} + x - 1 \right) - 1 
 ```
 
-:two_hearts: **Cálculo de (x² + x - 1)²**
+## :two_hearts: **Cálculo de (x² + x - 1)²**
 
 Para encontrar `gog(x)`, precisamos calcular o quadrado de `x² + x - 1`. Segue o desenvolvimento:
 
@@ -41,7 +41,7 @@ Para encontrar `gog(x)`, precisamos calcular o quadrado de `x² + x - 1`. Segue 
 \left[ x^{2} + \left( x - 1 \right) \right]^{2} = x^{4} + 2x^{3} - x^{2} - 2x + 1
 ```
 
-:two_hearts: **Simplificando gog(x)**
+## :two_hearts: **Simplificando gog(x)**
 
 Agora, podemos substituir o resultado de `(x² + x - 1)²` na expressão de `gog(x)` e simplificar:
 
@@ -51,14 +51,15 @@ Agora, podemos substituir o resultado de `(x² + x - 1)²` na expressão de `gog
 \Rightarrow \bbox[#CC3333]{\color{white}{gog\left( x \right) = x^{4} + 2x^{3} - x - 1}}
 ```
 
-:two_hearts: **Conclusão**
+## :two_hearts: **Conclusão**
 
 Este documento LaTex demonstrou que a função composta `gog(x)` é igual a `x^4 + 2x^3 - x - 1`.
 
-:two_hearts: **Imagem**
+## :two_hearts: **Imagem**
+
 ![imagem](https://github.com/DeiseFreire/S-224403062024/blob/main/imagem.png)
 
-:two_hearts: **Tags**
+## :two_hearts: **Tags**
 
 #latex #mathematics #functioncomposition #mathfunctions #pdflatex #overleaf #texlive #education #opensource 
 
