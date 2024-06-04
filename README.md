@@ -57,7 +57,6 @@ Este documento LaTex demonstrou que a função composta `gog(x)` é igual a `x^4
 
 :two_hearts: **Imagem**
 
-![imagem](https://github.com/DeiseFreire/S-224403062024/blob/main/img.png)
 
 :two_hearts: **Tags**
 
