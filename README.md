@@ -61,7 +61,7 @@ Este documento LaTex demonstrou que a função composta `gog(x)` é igual a `x^4
 
 ## :two_hearts: **Tags**
 
-#latex #mathematics #functioncomposition #mathfunctions #pdflatex #overleaf #texlive #education #opensource 
+#latex #mathematics #functioncomposition #mathfunctions #pdflatex #overleaf #texlive #education #opensource #lagrida
 
 ![brazil](https://github.com/pedromxavier/flag-badges/raw/main/badges/BR.svg)
 
